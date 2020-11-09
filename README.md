@@ -1,2 +1,4 @@
 # CominacionesNumerosJava
-En el presente ejercicio se muestra el proceso por el cual se muestra la suma de una combinación de números para llegar a un resultado ingresado por el usuario
+Ejercicio1:
+Para la instalacion y uso del presente programa se recomienda descaragr el archivo zip y descomprimirlo usando el programa de su preferencia.
+Despues de realizar el proceso recomendamos usar el programa de su preferencia para ver el lenguaje de java, pero se recomienda el uso de neatbeans en su version 8.2.

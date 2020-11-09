@@ -1,4 +1,4 @@
-# CominacionesNumerosJava
+# CombinacionesNumerosJava
 Nombre:Aldo Humberto Marin Espinoza
 correo:ealdo508@gmail.com
 Ejercicio1:
